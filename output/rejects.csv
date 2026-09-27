@@ -1,0 +1,213 @@
+article_id,company_name,matched_company,match_type,source_revenue_raw,arr_status,published_date,date_status,reason
+ART0032,DataRobot,DataRobot,exact,Not disclosed,missing,2023-09-20,parsed,revenue_missing
+ART0042,DataRobot,DataRobot,exact,N/A,missing,"February 25, 2020",parsed,revenue_missing
+ART0103,DataRobot,DataRobot,exact,,missing,13-11-2023,parsed,revenue_missing
+ART0110,DataRobot,DataRobot,exact,Not disclosed,missing,16 Jul 2023,parsed,revenue_missing
+ART0148,DataRobot,DataRobot,exact,N/A,missing,27 Jun 2021,parsed,revenue_missing
+ART0267,DataRobot,DataRobot,exact,Not disclosed,missing,26 Oct 2023,parsed,revenue_missing
+ART0319,DataRobot,DataRobot,exact,N/A,missing,"July 30, 2021",parsed,revenue_missing
+ART0699,DataRobot,DataRobot,exact,N/A,missing,05-03-2024,parsed,revenue_missing
+ART0052,MongoDB,MongoDB,exact,Not disclosed,missing,21 May 2022,parsed,revenue_missing
+ART0150,MongoDB,MongoDB,exact,Not disclosed,missing,23 Aug 2022,parsed,revenue_missing
+ART0265,MongoDB,MongoDB,exact,N/A,missing,26 Jan 2020,parsed,revenue_missing
+ART0280,MongoDB,MongoDB,exact,N/A,missing,2022-04-26,parsed,revenue_missing
+ART0494,MongoDB,MongoDB,exact,,missing,"November 18, 2021",parsed,revenue_missing
+ART0687,MongoDB,MongoDB,exact,Not disclosed,missing,02/10/2023,parsed,revenue_missing
+ART0153,Google DeepMind,Google DeepMind,exact,Not disclosed,missing,24 Jun 2022,parsed,revenue_missing
+ART0201,Google DeepMind,Google DeepMind,exact,Not disclosed,missing,17-10-2020,parsed,revenue_missing
+ART0218,Google DeepMind,Google DeepMind,exact,Not disclosed,missing,08-01-2022,parsed,revenue_missing
+ART0282,Google DeepMind,Google DeepMind,exact,,missing,"June 12, 2023",parsed,revenue_missing
+ART0395,Google DeepMind,Google DeepMind,exact,,missing,16 Mar 2023,parsed,revenue_missing
+ART0409,Google DeepMind,Google DeepMind,exact,,missing,09/03/2022,parsed,revenue_missing
+ART0447,Google DeepMind,Google DeepMind,exact,,missing,"August 08, 2023",parsed,revenue_missing
+ART0538,Google Deepmind,Google DeepMind,exact,,missing,04-01-2024,parsed,revenue_missing
+ART0151,Elastic,Elastic,exact,Not disclosed,missing,16 Oct 2023,parsed,revenue_missing
+ART0191,Elastic,Elastic,exact,,missing,2023-05-07T00:00:00Z,parsed,revenue_missing
+ART0203,Elastic,Elastic,exact,,missing,08/04/2022,parsed,revenue_missing
+ART0309,Elastic,Elastic,exact,N/A,missing,27 Jan 2020,parsed,revenue_missing
+ART0344,Elastic,Elastic,exact,,missing,28 Nov 2023,parsed,revenue_missing
+ART0381,Elastic,Elastic,exact,Not disclosed,missing,2022-07-18,parsed,revenue_missing
+ART0407,Elastic,Elastic,exact,Not disclosed,missing,08/30/2020,parsed,revenue_missing
+ART0440,Elastic,Elastic,exact,Not disclosed,missing,04/28/2021,parsed,revenue_missing
+ART0467,Elastic,Elastic,exact,,missing,25 Feb 2022,parsed,revenue_missing
+ART0057,NVIDIA,NVIDIA,exact,Not disclosed,missing,"February 16, 2023",parsed,revenue_missing
+ART0154,NVIDIA,NVIDIA,exact,Not disclosed,missing,2023-10-03T00:00:00Z,parsed,revenue_missing
+ART0183,NVIDIA,NVIDIA,exact,,missing,2023-11-01,parsed,revenue_missing
+ART0214,NVIDIA,NVIDIA,exact,,missing,27-12-2023,parsed,revenue_missing
+ART0297,NVIDIA,NVIDIA,exact,Not disclosed,missing,2021-07-23,parsed,revenue_missing
+ART0372,NVIDIA,NVIDIA,exact,Not disclosed,missing,2020-11-04,parsed,revenue_missing
+ART0583,NVIDIA,NVIDIA,exact,Not disclosed,missing,15-08-2023,parsed,revenue_missing
+ART0613,NVIDIA,NVIDIA,exact,N/A,missing,"March 24, 2024",parsed,revenue_missing
+ART0030,Stripe,Stripe,exact,Not disclosed,missing,24-08-2020,parsed,revenue_missing
+ART0083,Stripe,Stripe,exact,,missing,29 Mar 2021,parsed,revenue_missing
+ART0152,Stripe,Stripe,exact,Not disclosed,missing,2021-12-15T00:00:00Z,parsed,revenue_missing
+ART0193,SpaceX,SpaceX,exact,,missing,2022-09-18,parsed,revenue_missing
+ART0235,Stripe,Stripe,exact,,missing,"September 08, 2023",parsed,revenue_missing
+ART0302,Stripe,Stripe,exact,N/A,missing,2022-04-28,parsed,revenue_missing
+ART0323,Stripe,Stripe,exact,Not disclosed,missing,19 Sep 2020,parsed,revenue_missing
+ART0362,Stripe,Stripe,exact,Not disclosed,missing,19 Aug 2021,parsed,revenue_missing
+ART0422,SpaceX,SpaceX,exact,,missing,10-10-2021,parsed,revenue_missing
+ART0425,Stripe,Stripe,exact,Not disclosed,missing,22 Mar 2022,parsed,revenue_missing
+ART0451,SpaceX,SpaceX,exact,Not disclosed,missing,26-08-2021,parsed,revenue_missing
+ART0527,Stripe,Stripe,exact,N/A,missing,06-11-2024,parsed,revenue_missing
+ART0502,Mistral AI,,unmatched,"$95,000,000",parsed,2024-03-05T00:00:00Z,parsed,unknown_company
+ART0517,Perplexity AI,,unmatched,"¥12,750,000,000",parsed,09-10-2024,parsed,unknown_company
+ART0518,Cohere,,unmatched,$87.2M - $96.4M,parsed,2023-09-23,parsed,unknown_company
+ART0536,Cohere,,unmatched,"£91,023,622",parsed,"November 05, 2023",parsed,unknown_company
+ART0544,Perplexity AI,,unmatched,35.0M USD,parsed,2024-03-19T00:00:00Z,parsed,unknown_company
+ART0545,xAI,,unmatched,"€163,636,364",parsed,10-28-2024,parsed,unknown_company
+ART0579,Cohere,,unmatched,Not disclosed,missing,2024-05-22T00:00:00Z,parsed,unknown_company
+ART0595,Cohere,,unmatched,"€42,954,545",parsed,2022-04-09,parsed,unknown_company
+ART0604,Cohere,,unmatched,135.0M USD,parsed,06-09-2024,parsed,unknown_company
+ART0624,Hugging Face,,unmatched,82.0M USD,parsed,05/14/2024,parsed,unknown_company
+ART0627,xAI,,unmatched,"¥3,000,000,000",parsed,"January 04, 2024",parsed,unknown_company
+ART0630,xAI,,unmatched,,missing,2024-02-19,parsed,unknown_company
+ART0632,Mistral AI,,unmatched,"$260,000,000",parsed,12-11-2024,parsed,unknown_company
+ART0641,Perplexity AI,,unmatched,$85.0M,parsed,"August 19, 2024",parsed,unknown_company
+ART0646,Hugging Face,,unmatched,N/A,missing,06-04-2024,parsed,unknown_company
+ART0648,xAI,,unmatched,$47.5M - $52.5M,parsed,"May 25, 2024",parsed,unknown_company
+ART0662,Hugging Face,,unmatched,"$55,760,000",parsed,"June 19, 2023",parsed,unknown_company
+ART0685,Mistral AI,,unmatched,"€86,363,636",parsed,03-09-2024,parsed,unknown_company
+ART0688,Mistral AI,,unmatched,$87.2M - $96.4M,parsed,06-06-2023,parsed,unknown_company
+ART0691,Mistral AI,,unmatched,$260.0M,parsed,2024-12-13T00:00:00Z,parsed,unknown_company
+ART0692,Cohere,,unmatched,"$105,000,000",parsed,06-10-2024,parsed,unknown_company
+ART0715,Cohere,,unmatched,N/A,missing,06/26/2024,parsed,unknown_company
+ART0739,xAI,,unmatched,,missing,"September 04, 2024",parsed,unknown_company
+ART0749,xAI,,unmatched,$180.0 million,parsed,2024-11-07,parsed,unknown_company
+ART0750,Cohere,,unmatched,$0.135B,parsed,07/15/2024,parsed,unknown_company
+ART0050,Databricks,Databricks,exact,Not disclosed,missing,2021-07-26T00:00:00Z,parsed,revenue_missing
+ART0062,Databricks,Databricks,exact,,missing,07/06/2020,parsed,revenue_missing
+ART0089,Databricks,Databricks,exact,,missing,16 Sep 2020,parsed,revenue_missing
+ART0160,Databricks,Databricks,exact,Not disclosed,missing,2021-09-10T00:00:00Z,parsed,revenue_missing
+ART0276,Databricks,Databricks,exact,Not disclosed,missing,27 Dec 2023,parsed,revenue_missing
+ART0291,Databricks,Databricks,exact,,missing,2020-04-12,parsed,revenue_missing
+ART0325,Databricks,Databricks,exact,Not disclosed,missing,02 Oct 2020,parsed,revenue_missing
+ART0342,Databricks,Databricks,exact,N/A,missing,2022-05-17T00:00:00Z,parsed,revenue_missing
+ART0356,Databricks,Databricks,exact,Not disclosed,missing,09-06-2023,parsed,revenue_missing
+ART0478,Databricks,Databricks,exact,Not disclosed,missing,"June 17, 2023",parsed,revenue_missing
+ART0706,Databricks,Databricks,exact,N/A,missing,02-01-2024,parsed,revenue_missing
+ART0037,Palantir,Palantir,exact,Not disclosed,missing,09 Aug 2022,parsed,revenue_missing
+ART0076,Palantir,Palantir,exact,Not disclosed,missing,18-04-2023,parsed,revenue_missing
+ART0107,Palantir,Palantir,exact,,missing,2020-03-18,parsed,revenue_missing
+ART0146,Palantir,Palantir,exact,Not disclosed,missing,2023-05-26T00:00:00Z,parsed,revenue_missing
+ART0174,Palantir,Palantir,exact,Not disclosed,missing,2020-07-08T00:00:00Z,parsed,revenue_missing
+ART0255,Palantir,Palantir,exact,N/A,missing,05/09/2022,parsed,revenue_missing
+ART0298,Palantir,Palantir,exact,,missing,"October 17, 2022",parsed,revenue_missing
+ART0436,Palantir,Palantir,exact,N/A,missing,2020-09-26,parsed,revenue_missing
+ART0499,Palantir,Palantir,exact,Not disclosed,missing,2023-11-12,parsed,revenue_missing
+ART0509,Palantir,Palantir,exact,Not disclosed,missing,2023-05-22T00:00:00Z,parsed,revenue_missing
+ART0012,Cloudflare,Cloudflare,exact,N/A,missing,12/26/2022,parsed,revenue_missing
+ART0067,Cloudflare,Cloudflare,exact,N/A,missing,2021-08-20T00:00:00Z,parsed,revenue_missing
+ART0084,Cloudflare,Cloudflare,exact,N/A,missing,07/18/2020,parsed,revenue_missing
+ART0178,Cloudflare,Cloudflare,exact,,missing,02 Sep 2023,parsed,revenue_missing
+ART0197,Cloudflare,Cloudflare,exact,,missing,21-07-2023,parsed,revenue_missing
+ART0229,Cloudflare,Cloudflare,exact,Not disclosed,missing,2022-12-07T00:00:00Z,parsed,revenue_missing
+ART0260,Cloudflare,Cloudflare,exact,N/A,missing,"September 23, 2021",parsed,revenue_missing
+ART0281,Cloudflare,Cloudflare,exact,Not disclosed,missing,07/16/2023,parsed,revenue_missing
+ART0366,Cloudflare,Cloudflare,exact,Not disclosed,missing,12-01-2023,parsed,revenue_missing
+ART0450,Cloudflare,Cloudflare,exact,,missing,21 Sep 2023,parsed,revenue_missing
+ART0465,Cloudflare,Cloudflare,exact,,missing,"June 12, 2022",parsed,revenue_missing
+ART0474,Cloudflare,Cloudflare,exact,,missing,2020-01-14,parsed,revenue_missing
+ART0742,Cloudflare,Cloudflare,exact,Not disclosed,missing,2023-06-28,parsed,revenue_missing
+ART0001,Scale AI,Scale AI,exact,,missing,21 Feb 2020,parsed,revenue_missing
+ART0048,Scale AI,Scale AI,exact,,missing,12/19/2023,parsed,revenue_missing
+ART0063,Scale AI,Scale AI,exact,,missing,"July 05, 2020",parsed,revenue_missing
+ART0065,Scale AI,Scale AI,exact,,missing,04/15/2020,parsed,revenue_missing
+ART0092,Scale AI,Scale AI,exact,Not disclosed,missing,03 Feb 2023,parsed,revenue_missing
+ART0106,Scale AI,Scale AI,exact,Not disclosed,missing,"November 05, 2020",parsed,revenue_missing
+ART0125,Scale AI,Scale AI,exact,Not disclosed,missing,2021-07-13,parsed,revenue_missing
+ART0135,Scale AI,Scale AI,exact,,missing,"July 10, 2022",parsed,revenue_missing
+ART0156,Scale AI,Scale AI,exact,,missing,2021-04-20T00:00:00Z,parsed,revenue_missing
+ART0167,Scale AI,Scale AI,exact,Not disclosed,missing,08/30/2020,parsed,revenue_missing
+ART0176,Scale AI,Scale AI,exact,Not disclosed,missing,23-09-2021,parsed,revenue_missing
+ART0296,Scale AI,Scale AI,exact,,missing,2020-10-31T00:00:00Z,parsed,revenue_missing
+ART0018,Tesla,Tesla,exact,,missing,04/30/2020,parsed,revenue_missing
+ART0196,Tesla,Tesla,exact,Not disclosed,missing,01/22/2023,parsed,revenue_missing
+ART0216,Tesla,Tesla,exact,Not disclosed,missing,03-07-2021,parsed,revenue_missing
+ART0245,Tesla,Tesla,exact,Not disclosed,missing,12/12/2022,parsed,revenue_missing
+ART0289,Tesla,Tesla,exact,Not disclosed,missing,"December 11, 2023",parsed,revenue_missing
+ART0379,Tesla,Tesla,exact,,missing,"November 12, 2023",parsed,revenue_missing
+ART0423,Tesla,Tesla,exact,,missing,2020-08-30,parsed,revenue_missing
+ART0455,Tesla,Tesla,exact,,missing,2021-12-07,parsed,revenue_missing
+ART0640,Tesla,Tesla,exact,Not disclosed,missing,06 Feb 2023,parsed,revenue_missing
+ART0026,Anthropic,Anthropic,exact,Not disclosed,missing,2023-04-07T00:00:00Z,parsed,revenue_missing
+ART0044,Anthropic,Anthropic,exact,Not disclosed,missing,04 Apr 2021,parsed,revenue_missing
+ART0047,Anthropic,Anthropic,exact,Not disclosed,missing,"December 27, 2022",parsed,revenue_missing
+ART0064,Anthropic,Anthropic,exact,,missing,29-06-2020,parsed,revenue_missing
+ART0164,Anthropic,Anthropic,exact,Not disclosed,missing,2020-09-27T00:00:00Z,parsed,revenue_missing
+ART0244,Anthropic,Anthropic,exact,,missing,2023-06-22T00:00:00Z,parsed,revenue_missing
+ART0256,Anthropic,Anthropic,exact,N/A,missing,11-02-2020,parsed,revenue_missing
+ART0353,Anthropic,Anthropic,exact,N/A,missing,2022-01-30T00:00:00Z,parsed,revenue_missing
+ART0419,Anthropic,Anthropic,exact,N/A,missing,2023-03-29T00:00:00Z,parsed,revenue_missing
+ART0426,Anthropic,Anthropic,exact,,missing,"October 05, 2020",parsed,revenue_missing
+ART0444,Anthropic,Anthropic,exact,Not disclosed,missing,2023-01-29,parsed,revenue_missing
+ART0454,Anthropic,Anthropic,exact,Not disclosed,missing,06/21/2020,parsed,revenue_missing
+ART0469,Anthropic,Anthropic,exact,Not disclosed,missing,24-04-2020,parsed,revenue_missing
+ART0507,Anthropic,Anthropic,exact,,missing,15 Oct 2024,parsed,revenue_missing
+ART0043,Uber,Uber,exact,Not disclosed,missing,"March 09, 2021",parsed,revenue_missing
+ART0145,Uber,Uber,exact,Not disclosed,missing,2021-11-25T00:00:00Z,parsed,revenue_missing
+ART0194,Uber,Uber,exact,Not disclosed,missing,"June 24, 2023",parsed,revenue_missing
+ART0215,Uber,Uber,exact,Not disclosed,missing,23 Jul 2021,parsed,revenue_missing
+ART0361,Uber,Uber,exact,,missing,"August 09, 2021",parsed,revenue_missing
+ART0405,Uber,Uber,exact,Not disclosed,missing,2023-10-20T00:00:00Z,parsed,revenue_missing
+ART0462,Uber,Uber,exact,Not disclosed,missing,03-05-2020,parsed,revenue_missing
+ART0008,Microsoft,Microsoft,exact,,missing,2022-10-07,parsed,revenue_missing
+ART0035,Microsoft,Microsoft,exact,N/A,missing,04/04/2020,parsed,revenue_missing
+ART0111,Microsoft,Microsoft,exact,Not disclosed,missing,2020-06-15T00:00:00Z,parsed,revenue_missing
+ART0134,Microsoft,Microsoft,exact,,missing,2020-06-25,parsed,revenue_missing
+ART0166,Microsoft,Microsoft,exact,,missing,"August 15, 2023",parsed,revenue_missing
+ART0238,Microsoft,Microsoft,exact,,missing,08/11/2020,parsed,revenue_missing
+ART0288,Microsoft,Microsoft,exact,N/A,missing,2020-08-02T00:00:00Z,parsed,revenue_missing
+ART0354,Microsoft,Microsoft,exact,N/A,missing,"December 12, 2022",parsed,revenue_missing
+ART0414,Microsoft,Microsoft,exact,,missing,26-04-2022,parsed,revenue_missing
+ART0484,Microsoft,Microsoft,exact,,missing,"January 11, 2020",parsed,revenue_missing
+ART0529,Microsoft,Microsoft,exact,N/A,missing,"January 10, 2023",parsed,revenue_missing
+ART0123,Confluent,Confluent,exact,,missing,11/11/2021,parsed,revenue_missing
+ART0248,Confluent,Confluent,exact,Not disclosed,missing,11 Dec 2023,parsed,revenue_missing
+ART0284,Confluent,Confluent,exact,N/A,missing,2020-12-08,parsed,revenue_missing
+ART0348,Confluent,Confluent,exact,Not disclosed,missing,12-12-2021,parsed,revenue_missing
+ART0025,OpenAI,OpenAI,exact,Not disclosed,missing,24 Sep 2020,parsed,revenue_missing
+ART0095,Snowflake,Snowflake,exact,Not disclosed,missing,2020-07-31T00:00:00Z,parsed,revenue_missing
+ART0127,Snowflake,Snowflake,exact,,missing,19 May 2023,parsed,revenue_missing
+ART0139,Snowflake,Snowflake,exact,N/A,missing,29 May 2020,parsed,revenue_missing
+ART0143,Snowflake,Snowflake,exact,Not disclosed,missing,2020-01-17,parsed,revenue_missing
+ART0171,Snowflake,Snowflake,exact,,missing,2020-05-04T00:00:00Z,parsed,revenue_missing
+ART0190,Snowflake,Snowflake,exact,,missing,07-01-2022,parsed,revenue_missing
+ART0227,Snowflake,Snowflake,exact,N/A,missing,11/13/2022,parsed,revenue_missing
+ART0283,OpenAI,OpenAI,exact,Not disclosed,missing,12/23/2022,parsed,revenue_missing
+ART0339,OpenAI,OpenAI,exact,N/A,missing,"August 22, 2023",parsed,revenue_missing
+ART0349,Snowflake,Snowflake,exact,Not disclosed,missing,2020-08-27T00:00:00Z,parsed,revenue_missing
+ART0434,Snowflake,Snowflake,exact,,missing,05/16/2021,parsed,revenue_missing
+ART0438,Snowflake,Snowflake,exact,Not disclosed,missing,2023-05-22T00:00:00Z,parsed,revenue_missing
+ART0486,Snowflake,Snowflake,exact,N/A,missing,"December 11, 2023",parsed,revenue_missing
+ART0535,Snowflake,Snowflake,exact,N/A,missing,15 Mar 2023,parsed,revenue_missing
+ART0557,OpenAI Inc.,OpenAI,exact,Not disclosed,missing,"June 11, 2024",parsed,revenue_missing
+ART0003,Meta AI,Meta AI,exact,,missing,2022-02-17,parsed,revenue_missing
+ART0205,Meta AI,Meta AI,exact,,missing,"October 05, 2023",parsed,revenue_missing
+ART0266,Meta AI,Meta AI,exact,,missing,25-07-2020,parsed,revenue_missing
+ART0287,Meta AI,Meta AI,exact,,missing,"June 01, 2021",parsed,revenue_missing
+ART0415,Meta AI,Meta AI,exact,N/A,missing,21 Aug 2020,parsed,revenue_missing
+ART0417,Meta AI,Meta AI,exact,N/A,missing,2021-02-19,parsed,revenue_missing
+ART0449,Meta AI,Meta AI,exact,,missing,13 Sep 2022,parsed,revenue_missing
+ART0543,Facebook AI Research,Meta AI,alias,Not disclosed,missing,"June 01, 2024",parsed,revenue_missing
+ART0721,Meta AI,Meta AI,exact,N/A,missing,2024-04-04,parsed,revenue_missing
+ART0027,Airbnb,Airbnb,exact,,missing,2022-04-12T00:00:00Z,parsed,revenue_missing
+ART0140,Airbnb,Airbnb,exact,,missing,24-09-2020,parsed,revenue_missing
+ART0162,Airbnb,Airbnb,exact,Not disclosed,missing,2023-12-08T00:00:00Z,parsed,revenue_missing
+ART0208,Airbnb,Airbnb,exact,,missing,09/19/2022,parsed,revenue_missing
+ART0271,Airbnb,Airbnb,exact,N/A,missing,"October 31, 2022",parsed,revenue_missing
+ART0279,Airbnb,Airbnb,exact,N/A,missing,14-04-2023,parsed,revenue_missing
+ART0489,Airbnb,Airbnb,exact,Not disclosed,missing,24 Dec 2020,parsed,revenue_missing
+ART0725,Airbnb,Airbnb,exact,Not disclosed,missing,"April 08, 2024",parsed,revenue_missing
+ART0005,Amazon Web Services,Amazon Web Services,exact,Not disclosed,missing,12/28/2021,parsed,revenue_missing
+ART0098,Amazon Web Services,Amazon Web Services,exact,Not disclosed,missing,30 Sep 2021,parsed,revenue_missing
+ART0105,Amazon Web Services,Amazon Web Services,exact,,missing,09 Nov 2020,parsed,revenue_missing
+ART0136,Amazon Web Services,Amazon Web Services,exact,Not disclosed,missing,12/23/2023,parsed,revenue_missing
+ART0182,Amazon Web Services,Amazon Web Services,exact,,missing,2020-07-16T00:00:00Z,parsed,revenue_missing
+ART0195,Amazon Web Services,Amazon Web Services,exact,Not disclosed,missing,15-10-2021,parsed,revenue_missing
+ART0388,Amazon Web Services,Amazon Web Services,exact,Not disclosed,missing,"May 13, 2023",parsed,revenue_missing
+ART0401,Amazon Web Services,Amazon Web Services,exact,Not disclosed,missing,08/04/2021,parsed,revenue_missing
+ART0448,Amazon Web Services,Amazon Web Services,exact,Not disclosed,missing,2023-05-23,parsed,revenue_missing
+ART0596,AWS,Amazon Web Services,alias,N/A,missing,06/17/2024,parsed,revenue_missing
+ART0601,Amazon Web Services (AWS),Amazon Web Services,alias,N/A,missing,07-08-2024,parsed,revenue_missing
+ART0723,Amazon Web Services,Amazon Web Services,exact,N/A,missing,06-08-2024,parsed,revenue_missing
