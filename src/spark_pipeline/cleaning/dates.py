@@ -4,6 +4,8 @@ from __future__ import annotations
 
 from pyspark.sql import functions as F
 from pyspark.sql.types import IntegerType, StringType, StructField, StructType
+import config
+
 
 DATE_STRUCT_SCHEMA =StructType (
 	[

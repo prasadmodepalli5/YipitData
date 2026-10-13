@@ -6,6 +6,7 @@ from itertools import chain
 
 from pyspark.sql import DataFrame
 from pyspark.sql import functions as F
+import config
 
 from config import CATEGORY_TAXONOMY, DEFAULT_CATEGORY
 
