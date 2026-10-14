@@ -12,6 +12,15 @@ from pyspark.sql.types import IntegerType, StringType, StructField, StructType
 
 import config
 
+import duckdb
+from pathlib import Path
+from pipeline import config
+
+def build_duckdb_connection(db_path: Path = config.DUCKDB_PATH):
+    """Return a DuckDB connection to the given path."""
+    return duckdb.connect(str(db_path))
+
+
 logger = logging.getLogger(__name__)
 
 def with_aritricle_text(
