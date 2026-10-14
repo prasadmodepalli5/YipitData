@@ -19,6 +19,10 @@ from spark_pipeline.embeddings.embedder import (
     generate_embeddings_spark,
     with_article_text,
 )
+
+from pipeline.embeddings.embedder import build_duckdb_connection
+
+
 from spark_pipeline.embeddings.similarity import compute_top_similar_per_article
 from spark_pipeline.spark_session import get_spark
 from spark_pipeline.warehouse.build import run_warehouse_build
