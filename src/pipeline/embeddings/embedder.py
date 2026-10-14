@@ -8,9 +8,9 @@ from typing import Tuple
 import numpy as np
 from pyspark.sql import DataFrame, SparkSession
 from pyspark.sql import functions as F
-from pyspark.sql.types import IntegerType, StringType, StructField, StructType
+from pyspark.sql.types import ArrayType, DoubleType, StringType, StructField, StructType
 
-import config
+from pipeline import config
 
 import duckdb
 from pathlib import Path
@@ -25,7 +25,7 @@ logger = logging.getLogger(__name__)
 
 def with_aritricle_text(
     df: DataFrame, title_col:str = "title", summary_col:str = "summary", out_col: str = "text"
-) -->DataFrame:
+) ->DataFrame:
     return df.withColumn(
         out_col,
         F.concat_ws(
@@ -33,7 +33,7 @@ def with_aritricle_text(
         ),
     )
 
-def _sentence_transformer_available(model_name: str) -->bool:
+def _sentence_transformer_available(model_name: str) ->bool:
 
     try:
         from sentence_transformers import SentenaceTransformer
@@ -44,14 +44,14 @@ def _sentence_transformer_available(model_name: str) -->bool:
     except Expection as exc:
         logger.warning(
             "sentence-transformers unavailable (%s); falling back to a fully "
-            "Spark-native MLlib T-IDF embedding pipeline"
+            "Spark-native MLlib T-IDF embedding pipeline",
             exc,
         )
         return False
 
 def generate_embeddings_spark(
-    spark: SparkSession, df: DataFrame, id_col:str ="article_id", text_col: str = "text"
-) -> Tuple[DataFrame, str]
+    spark: SparkSession, df: DataFrame, id_col : str ="article_id", text_col: str = "text"
+) -> Tuple[DataFrame, str]:
     """ Return (DataFrame[id_col, embedding: array<double>], method_name)."""
     model_name = config.EMBEDDING_MODEL_NAME
 

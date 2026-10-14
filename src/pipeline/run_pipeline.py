@@ -11,10 +11,10 @@ import argparse, logging
 import pandas as pd
 from pathlib import Path
 from pyspark.sql import SparkSession, DataFrame, functions as F
-from pipeline import config
-from pipeline.embeddings.duckdb_loader import build_duckdb_connection
-from pipeline.embeddings.embedder import save_embeddings
-from spark_pipeline.embeddings.embedder import (
+# from pipeline import config
+# from pipeline.embeddings.duckdb_loader import build_duckdb_connection
+# from pipeline.embeddings.embedder import save_embeddings
+from pipeline.embeddings.embedder import (
     embeddings_df_to_numpy,
     generate_embeddings_spark,
     with_article_text,
