@@ -114,15 +114,11 @@ def main(generate_embeddings_flag: bool = True, persist_duckdb: bool = False) ->
             embeddings_for_duckdb = matrix
             ids_for_duckdb = article_ids
 
-        conn = build_duckdb_connection()
-        # Example of persisting tables + embeddings
-        # (make sure this is a proper function call, not dangling assignments)
-        persist_duckdb(
-            pandas_tables=pandas_tables,
+        conn = build_duckdb_connection(
+            pandas_tables,
             embeddings=embeddings_for_duckdb,
-            ids=ids_for_duckdb,
+            article_ids=ids_for_duckdb,
             db_path=config.DUCKDB_PATH,
-            conn=conn,
         )
         conn.close()
 
